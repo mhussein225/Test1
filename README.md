@@ -1,3 +1,4 @@
-# Project 0
+# Hello Humans!
 
-Web Programming with Python and JavaScript
+This is my first day wriiting a program. Let's see if this works!
+I hope I can get through this 5 weeks with learning a lot more and creating my own web bage!
